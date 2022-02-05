@@ -3,7 +3,6 @@ set.seed(1)
 
 # Carga de los datos
 # Load data 
-
 fold <- 3
 trainSet <- read.csv(paste("train",fold,".txt",sep=""),dec=".",sep=" ",header = F)
 testSet  <- read.csv(paste("test", fold,".txt",sep=""),dec=".",sep=" ",header = F)
