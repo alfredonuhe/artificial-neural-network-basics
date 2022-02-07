@@ -1,4 +1,4 @@
-# Artificial Neural Networks With RSNNS
+# Artificial Neural Networks with RSNNS
 This repository contains two coding assignments of the course Artificial Neural Networks:
 
   - An implementation of an Adaline Perceptron. [Link](adaline)
